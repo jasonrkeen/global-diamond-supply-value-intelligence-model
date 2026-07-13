@@ -1,0 +1,4 @@
+scenario,probability,production_carats,unit_value_usd_per_carat,production_value_usd,interpretation
+downside,0.25,96746593.65440328,69.1923264557885,6694121891.620989,Weak demand persists while operational disruptions and producer cuts deepen
+base,0.5,105159340.92869923,78.62764369975966,8268431190.243316,Current driver assumptions remain broadly valid
+upside,0.25,112520494.79370818,86.49040806973564,9731943510.916384,Demand stabilizes mine ramp-ups perform and natural-diamond pricing improves

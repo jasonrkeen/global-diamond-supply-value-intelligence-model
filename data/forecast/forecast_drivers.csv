@@ -1,0 +1,14 @@
+driver,year,mean_change,standard_deviation,direction,source_class,confidence,notes
+producer_output,2025,-0.080,0.040,production,preliminary_assumption,medium,Major-producer curtailment proxy; replace with reconciled producer disclosures
+mine_changes,2025,0.025,0.025,production,preliminary_assumption,low,New and ramping capacity partially offsets curtailments
+operational_shock,2025,-0.010,0.030,production,model_assumption,low,Weather grade recovery and disruption uncertainty
+natural_demand,2025,-0.060,0.050,unit_value,preliminary_assumption,medium,Weak downstream demand and inventory adjustment
+lab_grown_pressure,2025,-0.050,0.030,unit_value,model_assumption,medium,Natural-diamond substitution pressure
+mix_trade_effect,2025,0.015,0.040,unit_value,model_assumption,low,Quality mix sanctions and route effects
+producer_output,2026,-0.020,0.060,production,guidance_informed,medium,Includes published De Beers 21-26 million carat guidance context
+mine_changes,2026,0.035,0.035,production,model_assumption,low,Angola and other ramp-up potential
+operational_shock,2026,-0.005,0.040,production,model_assumption,low,Operational uncertainty
+natural_demand,2026,0.020,0.070,unit_value,model_assumption,low,Modest stabilization baseline with wide uncertainty
+lab_grown_pressure,2026,-0.045,0.035,unit_value,model_assumption,medium,Continued substitution and price separation
+mix_trade_effect,2026,0.010,0.050,unit_value,model_assumption,low,Quality mix sanctions tariffs and route effects
+

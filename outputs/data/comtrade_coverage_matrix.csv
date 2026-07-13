@@ -1,0 +1,25 @@
+year,reporter_code,reporter,coverage_status,rows
+2022,842,United States,available,8
+2022,699,India,available,7
+2022,56,Belgium,available,8
+2022,376,Israel,available,7
+2022,784,United Arab Emirates,available,8
+2022,72,Botswana,available,8
+2022,710,South Africa,available,8
+2022,124,Canada,available,8
+2023,842,United States,available,8
+2023,699,India,available,8
+2023,56,Belgium,available,8
+2023,376,Israel,available,7
+2023,784,United Arab Emirates,available,8
+2023,72,Botswana,available,8
+2023,710,South Africa,available,8
+2023,124,Canada,available,8
+2024,842,United States,available,8
+2024,699,India,available,8
+2024,56,Belgium,available,8
+2024,376,Israel,available,7
+2024,784,United Arab Emirates,no_data,0
+2024,72,Botswana,no_data,0
+2024,710,South Africa,available,8
+2024,124,Canada,available,8

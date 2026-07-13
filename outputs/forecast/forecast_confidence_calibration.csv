@@ -1,0 +1,2 @@
+base_confidence_score,verified_producers,disclosure_uplift,calibrated_confidence_score,method
+31.2,5,15.0,46.2,3 points per verified producer capped at 15; coverage proxy only

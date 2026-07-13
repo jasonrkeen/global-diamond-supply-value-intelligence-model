@@ -1,0 +1,8 @@
+{
+  "runs": 5000,
+  "seed": 42,
+  "unit_value_p10": 77.7,
+  "unit_value_p50": 87.21,
+  "unit_value_p90": 96.52,
+  "probability_below_baseline": 0.5648
+}

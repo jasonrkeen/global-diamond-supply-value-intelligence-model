@@ -1,0 +1,7 @@
+year,driver,direction,mean_change,standard_deviation,confidence,one_sigma_production_carats_effect,one_sigma_value_usd_effect
+2026,natural_demand,unit_value,0.02,0.07,low,0.0,667326606.3849
+2026,mix_trade_effect,unit_value,0.01,0.05,low,0.0,476661861.7035
+2026,lab_grown_pressure,unit_value,-0.045,0.035,medium,0.0,333663303.19245
+2026,producer_output,production,-0.02,0.06,medium,0.06,5.301003297618816
+2026,operational_shock,production,-0.005,0.04,low,0.04,3.5340021984125447
+2026,mine_changes,production,0.035,0.035,low,0.035,3.0922519236109767

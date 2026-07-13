@@ -1,0 +1,6 @@
+{
+  "observed_through": 2024,
+  "forecast_version": "1.0",
+  "replacement_rule": "Replace 2025 estimate when official KP 2025 actual is available",
+  "warning": "Forecasts are model outputs, not observed prices, appraisals, or investment advice"
+}

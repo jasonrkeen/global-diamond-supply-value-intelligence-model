@@ -1,0 +1,5 @@
+scenario,production_adjustment,unit_value_adjustment,probability,interpretation
+downside,-0.080,-0.120,0.25,Weak demand persists while operational disruptions and producer cuts deepen
+base,0.000,0.000,0.50,Current driver assumptions remain broadly valid
+upside,0.070,0.100,0.25,Demand stabilizes mine ramp-ups perform and natural-diamond pricing improves
+

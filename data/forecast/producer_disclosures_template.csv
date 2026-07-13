@@ -1,0 +1,3 @@
+producer,reporting_period,production_carats,production_guidance_low,production_guidance_high,sales_carats,revenue_usd,source_url,published_date,retrieved_date,status,notes
+Example Producer,2026-Q1,,,,,,,,,not_loaded,Delete example row and enter sourced disclosures
+

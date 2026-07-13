@@ -1,0 +1,3 @@
+name,status,rows,path,message,checked_at_utc
+Kimberley Process,local_official_pdf,21,C:\Users\keenj\OneDrive\Desktop\Research-1\global-diamond-supply-value-intelligence-model\data\external\kimberley_process_global_summary.pdf,Official global-summary PDF parsed and reconciled,2026-07-13T02:49:54.025037+00:00
+UN Comtrade diamond flows,cached,172,C:\Users\keenj\OneDrive\Desktop\Research-1\global-diamond-supply-value-intelligence-model\data\cache\comtrade\diamond_trade_normalized.csv,"0 live calls; 22 cached calls; 2 no-data combinations; 0 failed calls; no data: United Arab Emirates 2024, Botswana 2024",2026-07-13T02:49:54.025051+00:00
